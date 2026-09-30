@@ -1,0 +1,14 @@
+[
+  { "id": "sp-1", "season": "spring", "text": "산에는 꽃 피네 꽃이 피네 갈 봄 여름 없이 꽃이 피네", "author": "김소월, 「산유화」" },
+  { "id": "sp-2", "season": "spring", "text": "지금은 남의 땅, 빼앗긴 들에도 봄은 오는가?", "author": "이상화" },
+  { "id": "sp-3", "season": "spring", "text": "4월은 만물에 젊음의 기운을 불어넣었다.", "author": "셰익스피어, 소네트 98" },
+  { "id": "su-1", "season": "summer", "text": "그대를 여름날에 비할까요? 그대는 더 사랑스럽고 더 온화합니다.", "author": "셰익스피어, 소네트 18" },
+  { "id": "su-2", "season": "summer", "text": "여름날 오후, 내게는 언제나 가장 아름다운 두 단어였다.", "author": "헨리 제임스" },
+  { "id": "au-1", "season": "autumn", "text": "계절이 지나가는 하늘에는 가을로 가득 차 있습니다.", "author": "윤동주, 「별 헤는 밤」" },
+  { "id": "au-2", "season": "autumn", "text": "안개와 무르익은 결실의 계절이여.", "author": "존 키츠, 「가을에게」" },
+  { "id": "au-3", "season": "autumn", "text": "가을 나무에서 떨어지는 모든 잎이 내게 기쁨을 속삭인다.", "author": "에밀리 브론테" },
+  { "id": "wi-1", "season": "winter", "text": "겨울이 오면 봄이 어찌 멀 수 있으랴?", "author": "퍼시 비시 셸리" },
+  { "id": "wi-2", "season": "winter", "text": "날이 추워진 뒤에야 소나무와 잣나무가 늦게 시듦을 안다.", "author": "공자, 『논어』" },
+  { "id": "an-1", "season": "any", "text": "죽는 날까지 하늘을 우러러 한 점 부끄럼이 없기를", "author": "윤동주, 「서시」" },
+  { "id": "an-2", "season": "any", "text": "계절이 지나갈 때마다 그 계절 속에 살라.", "author": "헨리 데이비드 소로" }
+]
